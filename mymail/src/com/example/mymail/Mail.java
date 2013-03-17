@@ -39,7 +39,10 @@ bla bla bla bla bla
     File clipartdir = new File(basepath+ "/abc/");
     if (!clipartdir.exists()) {
         clipartdir.mkdirs();
-      CopyAssets();     
+      CopyAssets();    
+systemmfgkmnnhjdfh
+dfklhgldf
+fdjglkdfgkdfk;lgdfkgfkd	  
         
         		
     }
