@@ -23,6 +23,14 @@ public class Mail extends Activity {
 public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_mail);
+
+bla bla bla bla bla
+bla bla bla bla bla
+bla bla bla bla bla
+bla bla bla bla bla
+bla bla bla bla bla
+bla bla bla bla bla
+
     
     sendBroadcast(new Intent(Intent.ACTION_MEDIA_MOUNTED, Uri
             .parse("file://"
